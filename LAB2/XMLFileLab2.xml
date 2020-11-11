@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees>
+	<Employee
+		FullName = "Іванченко Петро Сергійович"
+		Faculty = "Комп'ютерних наук та кібернетики"
+		Department = "Прикладна математика"
+		Education = "Базова"
+		University = "КНУ імені Тараса Шевченка"
+		EducationPeriod = "2010-2014" >
+	</Employee>
+	
+	<Employee
+		FullName = "Evan Smith"
+		Faculty = "Фізики"
+		Department = "Фізика та астрономія"
+		Education = "Додаткова"
+		University = "Массачусетський технологічний інститут"
+		EducationPeriod = "2010-2014" >
+	</Employee>
+	
+	<Employee
+		FullName = "Christopher Williams"
+		Faculty = "Юридичний"
+		Department = "Міжнародне право"
+		Education = "Аспірантура"
+		University = "КНУ імені Тараса Шевченка"
+		EducationPeriod = "2020-2023" >
+	</Employee>
+	
+	<Employee
+		FullName = "Thomas Jones"
+		Faculty = "Машинобудування та транспорт"
+		Department = "Галузеве машинобудування"
+		Education = "Базова"
+		University = "Вінницький національний технічний університет"
+		EducationPeriod = "2020-2024" >
+	</Employee>
+
+    <Employee
+		FullName = "Петренко Сергій Анатолійович"
+		Faculty = "Математики"
+		Department = "Прикладна математика"
+		Education = "Додаткова"
+		University = "Массачусетський технологічний інститут"
+		EducationPeriod = "2006-2010" >
+	</Employee>
+	
+	<Employee
+		FullName = "Joseph Brown"
+		Faculty = "Права"
+		Department = "Міжнародне право"
+		Education = "Базова"
+		University = "Північно-Західний університет"
+		EducationPeriod = "2016-2020" >
+	</Employee>
+	
+	<Employee
+		FullName = "Mary Miller"
+		Faculty = "Енергетики та систем керування"
+		Department = "Теоретична електротехніка"
+		Education = "Докторантура"
+		University = "Львівська політехніка"
+		EducationPeriod = "2015-2018" >
+	</Employee>
+	
+	<Employee
+		FullName = "Сергієнко Андрій Валентинович"
+		Faculty = "Прикладна математика та фундаментальні науки"
+		Department = "Загальна фізика"
+		Education = "Аспірантура"
+		University = "Львівська політехніка"
+		EducationPeriod = "2010-2013" >
+	</Employee>
+	
+	<Employee
+		FullName = "Richard Davis"
+		Faculty = "Економіки і політичних наук"
+		Department = "Еконофізики"
+		Education = "Аспірантура"
+		University = "Лондонський університет"
+		EducationPeriod = "2023-2026" >
+	</Employee>
+	
+	<Employee
+		FullName = "Jackson Wilson"
+		Faculty = "Інженерних і прикладних наук"
+		Department = "Прикладна фізика"
+		Education = "Докторантура"
+		University = "Північно-Західний університет"
+		EducationPeriod = "2020-2023" >
+	</Employee>
+	
+	
+</Employees>
